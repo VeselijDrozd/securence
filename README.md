@@ -57,7 +57,7 @@ VSFTPD 2.3.4 Backdoor Vulnerability
 
 Описание: Бэкдор в VSFTPD версии 2.3.4, позволяющий удаленное выполнение кода
 
-CVE: [CVE-2011-2523](https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/)
+[CVE-2011-2523](https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/)
 ```
 
 ```
@@ -67,7 +67,7 @@ Samba "username map script" Command Execution
 
 Описание: Уязвимость в механизме аутентификации Samba, позволяющая выполнение команд с правами root
 
-CVE: [CVE-2007-2447](https://www.rapid7.com/db/modules/exploit/multi/samba/usermap_script/)
+[CVE-2007-2447](https://www.rapid7.com/db/modules/exploit/multi/samba/usermap_script/)
 ```
 
 ```
@@ -77,7 +77,7 @@ UnrealIRCd 3.2.8.1 Backdoor Command Execution
 
 Описание: Бэкдор в UnrealIRCd, позволяющий неавторизованное выполнение команд
 
-CVE: [CVE-2010-2075](https://www.rapid7.com/db/modules/exploit/unix/irc/unreal_ircd_3281_backdoor/)
+[CVE-2010-2075](https://www.rapid7.com/db/modules/exploit/unix/irc/unreal_ircd_3281_backdoor/)
 ```
 Все перечисленные уязвимости являются критическими и позволяют получить полный контроль над системой.
 
