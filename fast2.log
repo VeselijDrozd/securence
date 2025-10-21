@@ -1,0 +1,24 @@
+10/21/2025-11:44:04.045502  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:58916 -> 192.168.178.5:22
+10/21/2025-11:44:04.045502  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:58916 -> 192.168.178.5:22
+10/21/2025-11:44:04.044684  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:58878 -> 192.168.178.5:22
+10/21/2025-11:44:04.045876  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:58950 -> 192.168.178.5:22
+10/21/2025-11:44:06.253676  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:59014 -> 192.168.178.5:22
+10/21/2025-11:44:07.321831  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:59028 -> 192.168.178.5:22
+10/21/2025-11:44:07.870077  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58892 -> 192.168.178.5:22
+10/21/2025-11:44:07.929187  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58922 -> 192.168.178.5:22
+10/21/2025-11:44:07.929891  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58916 -> 192.168.178.5:22
+10/21/2025-11:44:07.929959  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58910 -> 192.168.178.5:22
+10/21/2025-11:44:09.357909  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:59028 -> 192.168.178.5:22
+10/21/2025-11:44:09.602193  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58896 -> 192.168.178.5:22
+10/21/2025-11:44:09.849730  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58942 -> 192.168.178.5:22
+10/21/2025-11:44:09.857683  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58924 -> 192.168.178.5:22
+10/21/2025-11:44:09.913483  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58930 -> 192.168.178.5:22
+10/21/2025-11:44:09.913932  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58934 -> 192.168.178.5:22
+10/21/2025-11:44:09.913982  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58966 -> 192.168.178.5:22
+10/21/2025-11:44:10.382932  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:59028 -> 192.168.178.5:22
+10/21/2025-11:44:10.811233  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58860 -> 192.168.178.5:22
+10/21/2025-11:44:10.811235  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58862 -> 192.168.178.5:22
+10/21/2025-11:44:10.877472  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58878 -> 192.168.178.5:22
+10/21/2025-11:44:10.877470  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58864 -> 192.168.178.5:22
+10/21/2025-11:44:10.937592  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58976 -> 192.168.178.5:22
+10/21/2025-11:44:11.002094  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.178.6:58950 -> 192.168.178.5:22

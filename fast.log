@@ -1,0 +1,21 @@
+10/21/2025-10:35:54.329017  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.178.6:8 -> 192.168.178.5:0
+10/21/2025-10:35:55.333084  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.178.6:8 -> 192.168.178.5:0
+10/21/2025-10:36:18.271803  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:38762 -> 192.168.178.5:3306
+10/21/2025-10:36:18.277207  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:44132 -> 192.168.178.5:1521
+10/21/2025-10:36:18.298583  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:55524 -> 192.168.178.5:5432
+10/21/2025-10:36:18.301547  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:55994 -> 192.168.178.5:1433
+10/21/2025-10:36:18.365812  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:55868 -> 192.168.178.5:5810
+10/21/2025-10:40:36.889000  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:39870 -> 192.168.178.5:3306
+10/21/2025-10:40:36.898802  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:39870 -> 192.168.178.5:5432
+10/21/2025-10:40:36.918021  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:39870 -> 192.168.178.5:1433
+10/21/2025-10:40:36.983116  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:39870 -> 192.168.178.5:1521
+10/21/2025-10:40:36.985156  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:39870 -> 192.168.178.5:5815
+10/21/2025-10:42:31.963045  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:38795 -> 192.168.178.5:3306
+10/21/2025-10:42:32.008856  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:38795 -> 192.168.178.5:5432
+10/21/2025-10:42:32.018286  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:38795 -> 192.168.178.5:1521
+10/21/2025-10:42:32.039156  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:38795 -> 192.168.178.5:1433
+10/21/2025-10:42:32.053998  [**] [1:2002910:6] ET SCAN Potential VNC Scan 5800-5820 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.178.6:38795 -> 192.168.178.5:5815
+10/21/2025-10:42:59.334174  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:50084 -> 192.168.178.5:3306
+10/21/2025-10:42:59.353196  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:50084 -> 192.168.178.5:1433
+10/21/2025-10:42:59.371666  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:50084 -> 192.168.178.5:1521
+10/21/2025-10:42:59.410133  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.178.6:50084 -> 192.168.178.5:5432

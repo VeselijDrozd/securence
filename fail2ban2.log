@@ -1,0 +1,38 @@
+2025-10-21 11:43:19,641 fail2ban.server         [3062]: INFO    --------------------------------------------------
+2025-10-21 11:43:19,641 fail2ban.server         [3062]: INFO    Starting Fail2ban v1.0.2
+2025-10-21 11:43:19,642 fail2ban.observer       [3062]: INFO    Observer start...
+2025-10-21 11:43:19,647 fail2ban.database       [3062]: INFO    Connected to fail2ban persistent database '/var/lib/fail2ban/fail2ban.sqlite3'
+2025-10-21 11:43:19,649 fail2ban.jail           [3062]: INFO    Creating new jail 'sshd'
+2025-10-21 11:43:19,853 fail2ban.jail           [3062]: INFO    Jail 'sshd' uses systemd {}
+2025-10-21 11:43:19,855 fail2ban.jail           [3062]: INFO    Initiated 'systemd' backend
+2025-10-21 11:43:19,856 fail2ban.filter         [3062]: INFO      maxLines: 1
+2025-10-21 11:43:19,868 fail2ban.filtersystemd  [3062]: INFO    [sshd] Added journal match for: '_SYSTEMD_UNIT=sshd.service + _COMM=sshd'
+2025-10-21 11:43:19,868 fail2ban.filter         [3062]: INFO      maxRetry: 5
+2025-10-21 11:43:19,868 fail2ban.filter         [3062]: INFO      findtime: 600
+2025-10-21 11:43:19,868 fail2ban.actions        [3062]: INFO      banTime: 600
+2025-10-21 11:43:19,869 fail2ban.filter         [3062]: INFO      encoding: UTF-8
+2025-10-21 11:43:19,874 fail2ban.jail           [3062]: INFO    Jail 'sshd' started
+2025-10-21 11:43:19,932 fail2ban.filtersystemd  [3062]: INFO    [sshd] Jail is in operation now (process new journal entries)
+2025-10-21 11:44:04,629 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:04
+2025-10-21 11:44:04,632 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:04
+2025-10-21 11:44:04,632 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:04
+2025-10-21 11:44:04,635 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:04
+2025-10-21 11:44:04,638 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:04
+2025-10-21 11:44:04,641 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:04
+2025-10-21 11:44:04,937 fail2ban.actions        [3062]: NOTICE  [sshd] Ban 192.168.178.6
+2025-10-21 11:44:06,361 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,362 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,364 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,366 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,368 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,370 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,371 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,373 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,375 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,376 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,377 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,378 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,379 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,379 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,380 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
+2025-10-21 11:44:06,381 fail2ban.filter         [3062]: INFO    [sshd] Found 192.168.178.6 - 2025-10-21 11:44:06
